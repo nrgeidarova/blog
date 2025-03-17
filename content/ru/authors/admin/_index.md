@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Разработка программного обеспечения
+  - Искусственный интеллект
+  - Кибербезопасность
+  - Волейбол
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю компьютерные науки, интересуюсь программированием, алгоритмами и ИИ.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю алгоритмы, структуры данных, базы данных и основы кибербезопасности.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,43 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Основы программирования и машинного обучения
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: C++
+        description: Работа с алгоритмами и структурами данных
+        percent: 65
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: SQL
+        description: Основы работы с реляционными базами данных
+        percent: 60
         icon: circle-stack
+      - name: Linux
+        description: Базовые навыки работы с операционной системой
+        percent: 55
+        icon: terminal
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Волейбол
+        description: Играю в свободное время
+        percent: 90
+      - name: Чтение научной фантастики
+        description: Люблю книги про технологии и будущее
+        percent: 85
+      - name: Участие в хакатонах
+        description: Интересуюсь соревнованиями по программированию
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 80
+  - name: Турецкий
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
